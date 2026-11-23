@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Boot.dev Introduction to Python Course certificate](https://api.boot.dev/v1/static/certificate/b4abc3f7-a987-4429-ab2e-a8e7fa12d7f5?v=1)](https://www.boot.dev/certificates/b4abc3f7-a987-4429-ab2e-a8e7fa12d7f5)
 [![Boot.dev Learn Linux certificate](https://api.boot.dev/v1/static/certificate/85ed93a9-b11d-400a-bea1-3bacb19f917b)](https://www.boot.dev/certificates/85ed93a9-b11d-400a-bea1-3bacb19f917b)
+[![Boot.dev Build a BookBot in Python certificate](https://api.boot.dev/v1/static/certificate/3dd4d903-8551-4368-9697-acf74201ba30)](https://www.boot.dev/certificates/3dd4d903-8551-4368-9697-acf74201ba30)
 <!--
 **jjmarais909/jjmarais909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
